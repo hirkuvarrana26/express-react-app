@@ -58,7 +58,7 @@ const HomePage = () => {
                                         <tr>
                                             <th>Product Name</th>
                                             <th>Status</th>
-                                            <th>Charge</th>
+                                            <th>Amount</th>
                                         </tr>
                                         </thead>
                                         <tbody>
